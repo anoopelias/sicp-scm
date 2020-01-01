@@ -1,2 +1,3 @@
-# Excercises in the book "Structure and Interpreations of Computer Programs"
+# SICP Exercises
+Excercises in the book "Structure and Interpreations of Computer Programs"
 
